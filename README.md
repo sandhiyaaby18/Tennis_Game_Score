@@ -29,7 +29,7 @@ ________________________________________________________________________________
 # The process
 
 
-## I have documented the process of building this app so you have a better understanding of my approach:
+I have documented the process of building this app so you have a better understanding of my approach:
 
 
 ### Hour 1: 
@@ -63,7 +63,7 @@ Resources that helped me in this section : Wikipedia, Youtube, PEP8, Multiple bl
 
 
 ### Hour 4 to 4.25
-- This was purely an extra step as it did not require significantly extra effort. I am very keen on ensuring I provide the best experience I can with my solutions.
+- This was purely an extra step. It did not require significantly more effort. I am very keen on ensuring I provide the best experience I can with my solutions.
 - Hence, I quickly made an interface that you can use to test the program better. I used the Streamlit Python library, which is my recent find. Very useful for quick prototyping. 
 
 
