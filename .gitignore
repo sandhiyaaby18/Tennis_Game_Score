@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environment 
+venv/
+.env/
+
+# Logs and system files
+*.log
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
