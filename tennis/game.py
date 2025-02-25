@@ -7,7 +7,7 @@ class Game:
         self.player1 = player1
         self.player2 = player2
     
-    def _calculate_score(self):
+    def calculate_score(self):
     
         try:
             score_diff = self.player1.score - self.player2.score

@@ -31,7 +31,7 @@ if __name__ == "__main__":
 
     if st.button("Show Score"):
         try:
-            result = game._calculate_score()
+            result = game.calculate_score()
             
             # Display result with larger text size
             st.markdown(f"<h3 style='color: #4CAF50;'>Score: {result}</h3>", unsafe_allow_html=True)

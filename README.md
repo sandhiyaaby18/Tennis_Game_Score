@@ -48,6 +48,8 @@ Resources that helped me in this section : Wikipedia, Youtube, PEP8, Multiple bl
 
 - Drafted a class model. (My initial thought was indeed to use a procedural approach, but doing the preliminary research about good code practices reminded me of the importance of OOPS and modularity for a maintainable and scalable code base)
 
+<img src="./resources/class_diagram.jpeg" alt="Class Diagram" width="30%" height="10%"/>
+
 - Layed out the project structure with necessary files.
 - Wrote skeleton code for the classes without the logic for the score calculation. 
 

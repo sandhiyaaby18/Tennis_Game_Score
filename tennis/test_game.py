@@ -35,7 +35,7 @@ def test_valid_cases(player1_score, player2_score, expected_result):
     # the game object
     game = Game(player1, player2)
 
-    result = game._calculate_score()
+    result = game.calculate_score()
     assert result == expected_result
 
 
@@ -59,4 +59,4 @@ def test_invalid_cases(player1_score, player2_score, expected_exception):
     game = Game(player1, player2)
 
     with pytest.raises(expected_exception):
-        game._calculate_score()
+        game.calculate_score()
